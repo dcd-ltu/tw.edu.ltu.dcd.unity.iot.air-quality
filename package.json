@@ -1,0 +1,14 @@
+{
+	"name": "tw.edu.ltu.dcd.unity.iot.air-quality",
+	"displayName": "DCD IoT Air Quality Templates",
+	"version": "1.0.0",
+	"unity": "2020.3",
+	"author": "Department of Digital Content Design ,Ling Tung University",
+	"description": "Demo for IoT Project (Air Quality)",
+	"dependencies": {
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/dcd-ltu/tw.edu.ltu.dcd.unity.iot.air-quality.git"
+	}
+}
